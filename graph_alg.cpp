@@ -1,4 +1,4 @@
-//SManish Kumar
+//Manish Kumar
 //This is the main algorithm source file. 
 
 #include "graph_alg.h"
